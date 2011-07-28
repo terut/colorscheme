@@ -100,3 +100,5 @@ highlight Pmenu                     ctermbg=0
 highlight PmenuSel                  ctermbg=240
 highlight PmenuSbar                 ctermbg=240
 "highlight PmenuThumb                ctermbg=212
+
+highlight TabLineFill               ctermfg=grey
